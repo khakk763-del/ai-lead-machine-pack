@@ -16,7 +16,9 @@ Turn your agency into a **24/7 lead-converting machine**: 5 production-ready n8n
 
 ## Get the pack
 
-👉 **https://payhip.com/b/Ig54k**
+👉 **https://omega-x402.onrender.com/ai-lead-machine-order**
+
+Pay with USDT (BNB Smart Chain) — your download link is emailed manually, usually within hours of on-chain verification.
 
 - **Standard — $147:** use in one business you own, lifetime 1.x updates
 - **Agency — $497:** install for unlimited clients, keep 100% of what you charge
@@ -29,6 +31,6 @@ Includes the 15-minute setup guide and 10 bonus client-outreach scripts.
 
 ## Done-for-you option
 
-Want it installed in your agency in 7 days instead? We do that too — [see how it works](https://payhip.com/b/Ig54k).
+Want it installed in your agency in 7 days instead? We do that too — [see the service on Fiverr](https://www.fiverr.com/khaled7754).
 
 Built by **OMEGA Studio**.
